@@ -12,7 +12,7 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gomarkdown/markdown v0.0.0-20230716120725-531d2d74bc12
 	github.com/google/gops v0.3.27
-	github.com/gorilla/schema v1.2.0
+	github.com/gorilla/schema v1.4.1
 	github.com/harmony-development/shibshib v0.0.0-20220101224523-c98059d09cfa
 	github.com/hashicorp/golang-lru v0.6.0
 	github.com/jpillora/backoff v1.0.0
@@ -47,11 +47,11 @@ require (
 	github.com/yaegashi/msgraph.go v0.1.4
 	github.com/zfjagann/golang-ring v0.0.0-20220330170733-19bcea1b6289
 	go.mau.fi/whatsmeow v0.0.0-20230805111647-405414b9b5c0
-	golang.org/x/image v0.11.0
+	golang.org/x/image v0.18.0
 	golang.org/x/oauth2 v0.11.0
-	golang.org/x/text v0.12.0
+	golang.org/x/text v0.16.0
 	gomod.garykim.dev/nc-talk v0.3.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	layeh.com/gumble v0.0.0-20221205141517-d1df60a3cc14
 	modernc.org/sqlite v1.25.0
 )
@@ -122,13 +122,14 @@ require (
 	github.com/wiggin77/merror v1.0.3 // indirect
 	github.com/wiggin77/srslog v1.0.1 // indirect
 	go.mau.fi/libsignal v0.1.0 // indirect
-	golang.org/x/crypto v0.12.0 // indirect
-	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.14.0 // indirect
-	golang.org/x/sys v0.11.0 // indirect
-	golang.org/x/term v0.11.0 // indirect
+	golang.org/x/crypto v0.23.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/sync v0.7.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/term v0.20.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.6.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
